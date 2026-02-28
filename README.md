@@ -8,9 +8,9 @@ If you want to know more about Xplore and how it failed, check out my blog post:
 
 Old Xplore landing page: [https://xploreapp.github.io](https://xploreapp.github.io)
 
-New Xplore landing page: [https://xplore-landing.netlify.com](https://xplore-landing.netlify.com)
+New Xplore landing page: [https://xplore-landing.netlify.app](https://xplore-landing.netlify.app)
 
-Google Play link: [https://play.google.com/store/apps/details?id=com.xplore](https://play.google.com/store/apps/details?id=com.xplore)
+Google Play link: (dead) [https://play.google.com/store/apps/details?id=com.xplore](https://play.google.com/store/apps/details?id=com.xplore)
 
 ### Notice
 
